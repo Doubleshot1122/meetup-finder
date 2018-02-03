@@ -8,6 +8,7 @@
     "knex": "knex"
   },
   "dependencies": {
+    "bcrypt-as-promised": "^1.1.0",
     "body-parser": "~1.17.1",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.3",
@@ -17,6 +18,8 @@
     "method-override": "^2.3.10",
     "morgan": "~1.8.1",
     "pg": "^7.4.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
     "serve-favicon": "~2.4.2"
   },
   "devDependencies": {
